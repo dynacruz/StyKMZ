@@ -1,0 +1,14 @@
+[general]
+name=StyKMZ
+qgisMinimumVersion=3.0
+description=Exporta capas vectoriales a KMZ preservando transparencia y simbología.
+version=1.0
+author=Dayana Cruz (2026)
+email=tu_correo@ejemplo.com
+about=Plugin que implementa una estrategia segura para empaquetar capas KML a KMZ.
+tracker=
+repository=
+category=Vector
+icon=icon.png
+experimental=False
+deprecated=False
